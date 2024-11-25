@@ -7,7 +7,7 @@ package main;
 import core.views.BankView;
 
 /**
- *
+ **
  * @author Antonella
  */
 
